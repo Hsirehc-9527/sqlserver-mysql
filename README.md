@@ -1,0 +1,3 @@
+# sqlserver-mysql
+sqlserver数据迁移至mysql
+将sqlserver中的数据迁移至mysql，需提前在mysql中建立表结构相同的数据库
